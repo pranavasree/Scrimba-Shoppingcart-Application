@@ -1,0 +1,9 @@
+To display items by one by one we can use below
+
+display: flex;
+flex-direction: column;
+
+
+firebase database URL
+
+https://mobileapp-5d535-default-rtdb.europe-west1.firebasedatabase.app/
